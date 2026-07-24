@@ -87,12 +87,15 @@ Reference:
 ![RS422 reference](images/rs485_rs422.png)
 
 Waveshare reference:
+
 ![Waveshare RS232/422/485 to ETH Converter](images/waveshare.jpeg)
 
 The wiring:
+
 ![Setup overview](images/overview.jpg)
 
 ![Improvised CAT5e wiring close-up](images/closeUp.jpg)
+
 ---
 
 # Step 4 – TCP Client Validation
