@@ -77,10 +77,10 @@ Although intended only as a temporary solution, the improvised wiring proved rel
 | CAT5e Conductor | RS-232 DB9 Pin | Connected to Waveshare |
 | --------------- | -------------- | ---------------------- |
 | Brown           | 1 (GND)        | GND                    |
-| Orange          | 4              | RX+                    |
-| Orange/White    | 5              | RX−                    |
-| Green           | 8              | TX+                    |
-| Green/White     | 9              | TX−                    |
+| Orange          | 4              | TX+                    |
+| Orange/White    | 5              | TX−                    |
+| Green           | 8              | RX+                    |
+| Green/White     | 9              | RX−                    |
 
 Reference:
 
